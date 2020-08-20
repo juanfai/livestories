@@ -1,0 +1,15 @@
+[0113/172927.924:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Juan\AppData\Local\Temp\scoped_dir9128_657530890\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0113/172927.925:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Juan\AppData\Local\Temp\scoped_dir9128_657530890\Crashpad\reports\2d35b8d5-960c-47c6-af13-ebc0f82e15a9.dmp: The system cannot find the path specified. (0x3)
+[0113/172927.925:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0303/153607.855:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0303/153607.857:ERROR:exception_snapshot_win.cc(98)] thread ID 15216 not found in process
+[0303/153607.857:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0303/153607.857:ERROR:exception_snapshot_win.cc(98)] thread ID 20400 not found in process
+[0303/153607.857:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0303/153607.860:ERROR:exception_snapshot_win.cc(98)] thread ID 12692 not found in process
+[0303/153607.863:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0303/153607.863:ERROR:exception_snapshot_win.cc(98)] thread ID 15340 not found in process
+[0303/153607.875:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0303/153607.876:ERROR:exception_snapshot_win.cc(98)] thread ID 18636 not found in process
+[0303/153607.888:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0303/153607.889:ERROR:exception_snapshot_win.cc(98)] thread ID 14016 not found in process
